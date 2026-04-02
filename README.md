@@ -12,6 +12,7 @@ This is a Machine Learning project that predicts house prices based on features 
 pip install -r requirements.txt
 streamlit run app.py
 
+**## Project Structure**
 house-price-prediction/
 │
 ├── data/
