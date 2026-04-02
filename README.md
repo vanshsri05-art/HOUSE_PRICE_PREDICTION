@@ -9,5 +9,5 @@ This is a Machine Learning project that predicts house prices based on features 
 
 ## 🚀 How to Run
 ```bash
-pip install -r requirements.txt
+
 streamlit run app.py
